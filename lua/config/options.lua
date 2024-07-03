@@ -18,3 +18,6 @@ vim.api.nvim_create_autocmd("LspAttach", {
     end
   end,
 })
+
+-- vim.g.neovide_window_blurred = true
+-- vim.g.neovide_transparency = 0.9
