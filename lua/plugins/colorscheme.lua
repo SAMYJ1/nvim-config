@@ -3,7 +3,7 @@ return {
     "folke/tokyonight.nvim",
     lazy = true,
     opts = {
-      style = "mono",
+      style = "moon",
       -- transparent = true,
       on_highlights = function(hl, colors)
         hl.LineNrAbove = {
